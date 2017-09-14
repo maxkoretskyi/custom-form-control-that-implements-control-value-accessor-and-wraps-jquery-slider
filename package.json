@@ -9,20 +9,26 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@angular/common": "^4.2.5",
-    "@angular/compiler": "^4.2.5",
-    "@angular/core": "^4.2.5",
-    "@angular/platform-browser": "^4.2.5",
-    "@angular/platform-browser-dynamic": "^4.2.5",
+    "@angular/common": "^4.3.1",
+    "@angular/compiler": "^4.3.1",
+    "@angular/core": "^4.3.1",
+    "@angular/forms": "^4.4.0-RC.0",
+    "@angular/platform-browser": "^4.3.1",
+    "@angular/platform-browser-dynamic": "^4.3.1",
+    "@types/jquery": "^3.2.12",
+    "@types/jqueryui": "^1.11.36",
     "core-js": "^2.4.1",
-    "rxjs": "^5.4.1",
-    "systemjs": "^0.20.14",
-    "zone.js": "^0.8.12"
+    "jquery": "^3.2.1",
+    "jquery-ui": "^1.12.1",
+    "rxjs": "^5.4.2",
+    "systemjs": "^0.20.17",
+    "tslib": "^1.7.1",
+    "zone.js": "^0.8.14"
   },
   "devDependencies": {
-    "@types/node": "^8.0.7",
+    "@types/node": "^8.0.17",
     "concurrently": "^3.5.0",
-    "json-server": "^0.10.3",
-    "typescript": "^2.4.1"
+    "json-server": "^0.11.2",
+    "typescript": "^2.4.2"
   }
 }
